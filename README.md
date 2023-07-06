@@ -30,6 +30,8 @@ The application includes the following features:
 
 - **RESTful APIs**: AWS API Gateway is used to create a set of RESTful APIs that expose endpoints for creating and retrieving blog posts. These APIs are integrated with Lambda functions to handle the business logic.
 
+- **Logging and Debugging**: AWS CloudWatch is used for logging and debugging Lambda functions. It provides insights into the execution logs, allowing for monitoring and troubleshooting of the application.
+
 - **Scalability and Serverless Architecture**: The application leverages serverless architecture using AWS Lambda. This ensures automatic scaling, high availability, and cost-efficiency, as Lambda functions are only executed when needed.
 
 - **Static Website Hosting**: The frontend of the application is hosted on Amazon S3, providing a scalable and reliable platform for serving the web application to users.
