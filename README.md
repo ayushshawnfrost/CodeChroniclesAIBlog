@@ -1,6 +1,6 @@
 # CodeChroniclesAIBlog
-Access the live version at : http://ayush.sharma.s3-website.us-east-2.amazonaws.com/
-medium Article: https://medium.com/@ayushjudesharp/ai-blog-full-stack-application-leveraging-serverless-architecture-95ed11c317e7
+  Access the live version at : http://ayush.sharma.s3-website.us-east-2.amazonaws.com/
+  medium Article: https://medium.com/@ayushjudesharp/ai-blog-full-stack-application-leveraging-serverless-architecture-95ed11c317e7
 ## Overview
 ![image](https://github.com/ayushshawnfrost/CodeChroniclesAIBlog/assets/23500476/93faba52-1fad-47e5-919e-85225e3e2794)
 ![image](https://github.com/ayushshawnfrost/CodeChroniclesAIBlog/assets/23500476/ba77f465-9c48-4c1a-b5de-5c673b290e9b)
