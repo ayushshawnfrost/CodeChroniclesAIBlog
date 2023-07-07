@@ -1,6 +1,9 @@
 # CodeChroniclesAIBlog
-  Access the live version at : http://ayush.sharma.s3-website.us-east-2.amazonaws.com/
-  medium Article: https://medium.com/@ayushjudesharp/ai-blog-full-stack-application-leveraging-serverless-architecture-95ed11c317e7
+Access the live version at : 
+    http://ayush.sharma.s3-website.us-east-2.amazonaws.com/
+    
+Medium Article: 
+    https://medium.com/@ayushjudesharp/ai-blog-full-stack-application-leveraging-serverless-architecture-95ed11c317e7
 ## Overview
 ![image](https://github.com/ayushshawnfrost/CodeChroniclesAIBlog/assets/23500476/93faba52-1fad-47e5-919e-85225e3e2794)
 ![image](https://github.com/ayushshawnfrost/CodeChroniclesAIBlog/assets/23500476/ba77f465-9c48-4c1a-b5de-5c673b290e9b)
@@ -48,5 +51,5 @@ The application includes the following features:
 
 The project demonstrates the power of AWS services and the AWS Amplify library in building scalable and secure web applications. By leveraging cloud infrastructure, the application achieves features like user authentication, RESTful APIs, and data persistence without the need to manage traditional server infrastructure.
 
-Feel free to explore and further enhance this project according to your requirements. Happy coding!
+Feel free to explore and further enhance this project according to your requirements. This website is purely for learning purposes. Feel free to play around and experiment. by © Cruip.com.. Happy coding!
 
