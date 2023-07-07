@@ -1,11 +1,16 @@
 # CodeChroniclesAIBlog
-
+access the live version at http://ayush.sharma.s3-website.us-east-2.amazonaws.com/
 ## Overview
+![image](https://github.com/ayushshawnfrost/CodeChroniclesAIBlog/assets/23500476/93faba52-1fad-47e5-919e-85225e3e2794)
+![image](https://github.com/ayushshawnfrost/CodeChroniclesAIBlog/assets/23500476/ba77f465-9c48-4c1a-b5de-5c673b290e9b)
+![image](https://github.com/ayushshawnfrost/CodeChroniclesAIBlog/assets/23500476/fd4e2b92-74a4-4351-8e99-d322fd826243)
+
+
 
 This project is a React-based web application built using various AWS services and the AWS Amplify library. It leverages the power of cloud computing to create a scalable and secure application with features like authentication, RESTful APIs, and data storage.
 
 ## Architecture
-
+https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xFXzTvI0PMYPQ4v3VjWmjw.png
 The architecture of the application consists of the following components:
 
 - **AWS Amplify**: Amplify is a development framework provided by AWS that simplifies the process of building full-stack applications. It provides a set of libraries, UI components, and CLI tools to accelerate development and integration with AWS services.
