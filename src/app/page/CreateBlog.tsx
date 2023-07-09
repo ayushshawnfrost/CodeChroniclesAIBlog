@@ -71,7 +71,7 @@ function Landing() {
       };
 
       const response = await axios.post(
-        "https://q92j60kw1f.execute-api.us-east-2.amazonaws.com/dev/blogs",
+        "********api**gateway***url",
         formData,
         myInit
       );
