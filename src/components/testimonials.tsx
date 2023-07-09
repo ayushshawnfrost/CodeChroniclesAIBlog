@@ -28,7 +28,7 @@ export default function Testimonials() {
         // };
         // localStorage.setItem("auth",authToken);
         const response = await axios.get(
-          "https://q92j60kw1f.execute-api.us-east-2.amazonaws.com/dev/blogs",
+          "*******api**gateway****url****",
           // myInit
         );
         setPost(response.data.Items);
